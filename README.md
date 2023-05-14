@@ -12,3 +12,6 @@ OSSN Components Listing: https://www.opensource-socialnetwork.org/component/view
 <br>
 <br>
 License: 	GPL v2
+<br>
+<br>
+Authors: TheDoggyBrad / Rafail Stratiotis / Core Team
