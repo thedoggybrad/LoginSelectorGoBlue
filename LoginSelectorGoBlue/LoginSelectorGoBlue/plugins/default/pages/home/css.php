@@ -9,7 +9,7 @@
     transition: 0.3s;
     font-size: 17px;
     color: #fff;
-    border: 4px solid #337ab7;
+    border: 4px solid #1a5fd6;
     box-shadow: 0 -15px 15px rgba(255,255,255,0.05), inset 0 -15px 15px rgba(255,255,255,0.05), 0 15px 15px rgba(0,0,0,0.3), inset 0 0px 5px rgba(0,0,0,0.3);
     border-radius: 10px;
     margin-top: -15px;
@@ -24,7 +24,7 @@
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #85C1E9;
+  background-color: #1E769A;
   color: #fff;
 }
 

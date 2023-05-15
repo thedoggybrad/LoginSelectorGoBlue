@@ -21,11 +21,8 @@
             </div>
            	 <ul  class="some-icons">
                 	<li><i class="fa fa-users"></i></li>
-                	<li><i class="fa fa-comments-o"></i></li>
                 	<li><i class="fa fa-envelope"></i></li>
-                	<li><i class="fa fa-globe" style="font-size: 53px; margin-left: 4px;"></i></li>
-                	<li><i class="fa fa-picture-o"></i></li>
-                	<li><i class="fa fa-video-camera" style="margin-left: 1px;"></i></li>
+                	<li><i class="fa fa-globe" style="font-size: 53px; margin-right: 3px;"></i></li>
                 	<li><i class="fa fa-map-marker" style="margin-left: 7px;"></i></li>
                 	<li><i class="fa fa-calendar" style="margin-left: 3px;"></i></li>
              </ul>
